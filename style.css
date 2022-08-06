@@ -1,0 +1,12 @@
+body{
+    font-family: 'Cormorant Garamond', serif;
+}
+.head-1{
+    font-weight: 700;
+    font-size: 300%;
+    padding-left: 8%;
+    padding-top: 5%;
+}
+.mission{
+    color: #FF7F50;
+}
